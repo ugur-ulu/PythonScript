@@ -1,5 +1,5 @@
 #sudo apt-get install dsniff
-import scapy.all from *
+from scapy.all import *
 
 pcktList = []
 
